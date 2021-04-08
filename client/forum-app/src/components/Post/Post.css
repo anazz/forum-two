@@ -1,0 +1,21 @@
+.post-main-wrapper {
+    margin: 14px;
+}
+
+.post-wrapper {
+    padding: 0 14px 0;
+    border: 1px solid green;
+    border-radius: 9%;
+}
+
+h3 {
+    text-align: center;
+}
+
+.post-date {
+    text-align: right;
+}
+
+.post-author {
+    text-align: right;
+}   

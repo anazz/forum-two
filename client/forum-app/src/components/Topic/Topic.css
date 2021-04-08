@@ -1,0 +1,35 @@
+.topic-wrapper {
+    width: 299px; /* Change later */
+    transition: transform .2s;
+    box-shadow: 0 19px 38px rgba(0, 0, 0, 0.3), 0 15px 12px rgba(114, 104, 104, 0.2);
+    /* border: 3px solid green; */
+}
+
+.topic-wrapper:hover {
+    transform: scale(1.05);
+}
+
+.topic-top-wrapper {
+    position: relative;
+    display: block;
+    margin: 14px;
+    /* border: 3px solid green; */
+}
+
+h2 {
+    text-align: center;
+}
+
+.topic-date {
+    text-align: right;
+}
+
+.topic-image-wrapper {
+    width: 300px;
+    height: 300px;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}

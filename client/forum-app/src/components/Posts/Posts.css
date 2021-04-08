@@ -1,0 +1,12 @@
+.posts-list-wrapper {
+    display: flex;
+}
+
+.posts-list {
+    height: 230px;
+    overflow: scroll;
+    scrollbar-width: thin;
+    list-style: none;
+}
+
+
